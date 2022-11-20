@@ -13,6 +13,7 @@ A quick up to date Ghost nonhost RTM tool.
 V2.0:
 
 MP
+ - Unlock All Camos
  - Max Level
  - Set Prestige
  - Set Clan Tag
