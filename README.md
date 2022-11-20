@@ -4,7 +4,7 @@
 Want me to post source code? Vote in the Discord!
 #
 # ZER0x1337s Ghost RTM Tool
-A quick up to date BO1 nonhost RTM tool.
+A quick up to date Ghost nonhost RTM tool.
 
 ![Screenshot](https://cdn.discordapp.com/attachments/1043014883681239080/1043690285554729071/image.png)
 #
